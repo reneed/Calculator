@@ -1,4 +1,6 @@
 Calculator
+By Ruining Sun
+XpertTech
 ==========
 
 A Calculator..
